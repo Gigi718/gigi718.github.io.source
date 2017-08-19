@@ -1,0 +1,17 @@
+#!/usr/bin/env node
+var path = require('path');
+var fs = require('fs');
+
+console.log('pre-generate hook');
+
+var apiRoot = require(path.resolve('./moka.config.json')).apiRoot || 'moka_api';
+var oldPath = path.resolve('./hooks/tmp_pre_generate.json');
+var dbPath = path.resolve('.', 'static', apiRoot, 'db.json');
+
+if(fs.existsSync(dbPath) && !fs.existsSync(oldPath)) {
+    var db = require(dbPath);
+    fs.writeFileSync('./hooks/tmp_pre_generate.json', JSON.stringify(db.index.sorted));
+}
+
+
+process.exit(0);
