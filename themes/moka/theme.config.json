@@ -16,13 +16,13 @@
 
   "home": {
     "title": "About Me",
-    "contentHtml": "<p>I’m a Javascript enthusiast. I'm a member of Baidu BEFE team and try my best to improve myself. I’m also a nodejs, c/c++ dev, Sometimes.</p><p><img class='emoji' src='http://emojipedia-us.s3.amazonaws.com/cache/08/84/088419f4d97c19762c29008c4a89bbf4.png'/></p>"
+    "contentHtml": "<p>I’m a crazy game fan,i love IT technology.My dream is to be a engineer in a year!</p><p><img class='emoji' src='http://emojipedia-us.s3.amazonaws.com/cache/08/84/088419f4d97c19762c29008c4a89bbf4.png'/></p>"
   },
   "projects": [
     {
       "title": "Moka & Theme",
       "image": "https://segmentfault.com/img/bVEjtX",
-      "link": "https://github.com/moyuyc/moka"
+      "link": ""
     }
   ],
 
@@ -55,7 +55,7 @@
   },
 
   "music": {
-    "id": "69355290",
+    "id": "安琪Steven",
     "auto": true,
     "style": {
       "left": "80px",
