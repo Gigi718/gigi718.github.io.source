@@ -1,9 +1,9 @@
 {
   "theme": "moka",
-  "title": "Moyu Blog",
+  "title": "Angel Blog",
   "favicon": "/head.jpg",
-  "author": "moyu",
-  "description": "moyu Blog",
+  "author": "Angel",
+  "description": "Angel Blog",
   "siteName": "site",
   "deploy": [
     {
