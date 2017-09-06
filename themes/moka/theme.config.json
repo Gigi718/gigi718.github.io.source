@@ -1,7 +1,7 @@
 {
   "avatar": "/moka-png.png",
   "title": " Angel Dev Blog ",
-  "description": " Web, Node C/C++ Dev ",
+  "description": " 游戏爱好者, Java自虐者",
 
   "mainInfoColor": "",
   "canvasColor": "",
@@ -55,9 +55,10 @@
   },
 
   "music": {
-    "id": "",
+    "id": "69355290",
     "auto": true,
     "style": {
+      "display":"none",
       "left": "80px",
       "top": "15px",
       "right": "",

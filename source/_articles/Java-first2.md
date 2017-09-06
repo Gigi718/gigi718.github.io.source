@@ -2,7 +2,7 @@
 title: <Head first java>学习笔记二
 date: 2017-08-21 12:11:55
 categories:
-tags:[学习笔记]
+tags:[<Head first java>笔记]
 skip: false
 ---
 # 对象和对象的引用 
@@ -32,12 +32,12 @@ skip: false
  `Person person1 = new person('张三');`
  `Person person2 = person1;`  
  
-# 控制Dog类型
+# 控制`Dog`类型
 方法: 通过引用变量的来存取Dog的实例变量与方法
 引用变量通过使用圆点运算符来存取Dog的实例变量与方法。  
 `Dog fido = new dog();  //声明一个名为fido的对象并定义为Dog类型的变量`  
 `fido.name = 'fido';    //通过圆点运算符来读取变量fido的值name`  
-# 通过数组来存取Dog数组中的Dog
+# 通过数组来存取`Dog`数组中的`Dog`
 **注意事项**   
 - 对数组的操作不需要变量名称
 - 在数组中是通过数组的索引来操作特定对象  
