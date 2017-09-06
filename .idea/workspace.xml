@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f7f105-1520-4eea-892a-332a720589c9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_articles/菜鸟教程1.md" afterPath="$PROJECT_DIR$/source/_articles/菜鸟教程1.md" />
     </list>
     <ignored path="moka-blog.iws" />
@@ -31,7 +30,7 @@
           <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="576">
-                <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
+                <caret line="123" column="28" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -39,8 +38,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="516">
-                <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -301,12 +300,12 @@
       <workItem from="1503282708471" duration="6657000" />
       <workItem from="1504582903342" duration="1288000" />
       <workItem from="1504584433384" duration="1436000" />
-      <workItem from="1504656512142" duration="6230000" />
+      <workItem from="1504656512142" duration="6499000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22294000" />
+    <option name="totallyTimeSpent" value="22563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="35" width="1440" height="795" extended-state="0" />
@@ -613,7 +612,7 @@
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="576">
-            <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
+            <caret line="123" column="28" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
             <folding />
           </first_editor>
           <second_editor />
@@ -621,8 +620,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="516">
-            <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor>
