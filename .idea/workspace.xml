@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f7f105-1520-4eea-892a-332a720589c9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_articles/菜鸟教程1.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_articles/Java-first2.md" afterPath="$PROJECT_DIR$/source/_articles/Java-first2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_articles/Java.md" afterPath="$PROJECT_DIR$/source/_articles/Java.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_articles/Chapter-1.md" afterPath="$PROJECT_DIR$/source/_articles/Chapter-1.md" />
     </list>
     <ignored path="moka-blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,6 +77,7 @@
         <option value="$PROJECT_DIR$/source/_articles/Java.md" />
         <option value="$PROJECT_DIR$/source/_articles/菜鸟教程1.md" />
         <option value="$PROJECT_DIR$/source/_articles/菜鸟教程2.md" />
+        <option value="$PROJECT_DIR$/source/_articles/Chapter-1.md" />
       </list>
     </option>
   </component>
@@ -290,12 +289,12 @@
       <workItem from="1503282708471" duration="6657000" />
       <workItem from="1504582903342" duration="1288000" />
       <workItem from="1504584433384" duration="1436000" />
-      <workItem from="1504656512142" duration="9715000" />
+      <workItem from="1504656512142" duration="9807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25779000" />
+    <option name="totallyTimeSpent" value="25871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="35" width="1440" height="795" extended-state="0" />
