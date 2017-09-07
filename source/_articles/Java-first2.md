@@ -2,7 +2,7 @@
 title: <Head first java>学习笔记二
 date: 2017-08-21 12:11:55
 categories:
-tags: [<Head first java>笔记]
+tags: [Head first java]
 skip: false
 ---
 # 对象和对象的引用 
