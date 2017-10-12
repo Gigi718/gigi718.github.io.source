@@ -5,7 +5,7 @@ categories:
 tags: [JavaScript权威指南]
 skip: false
 ---
-##  1.1JavaScript语言核心
+##  1.1 JavaScript语言核心
 
 **// 所有在双斜杠后的内容都表示注释**   
 **// 变量是表示值的一个符号名字**  
